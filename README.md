@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋 It's me Subash
 
-<!--
-**subash26003/subash26003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About me
+<img align="right" width="300" height="290" src="https://res.cloudinary.com/dosxybcit/image/upload/v1725903443/Github/pvpw0v1a4xrbok6v6elv.gif">
 
-Here are some ideas to get you started:
+- 🔭 Here's my [portfolio](https://subash26003.github.io/My-Portfolio/)                                    
+- 🎓 Final year ECE student
+- 💻 Passionate Web Developer
+- 🌱 Exploring software development
+- 🔍 I’m currently learning DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me :
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subash003/)
+
+
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://res.cloudinary.com/dosxybcit/image/upload/v1724937926/Logo/react_ezr1va.png"/>&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+&nbsp;&nbsp;<img height="50" width="50" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000"/><br/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://res.cloudinary.com/dosxybcit/image/upload/v1724937925/Logo/tailwind-css_j1amer.png"/>&nbsp;&nbsp;<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://res.cloudinary.com/dosxybcit/image/upload/v1725904788/Github/intelliJ-Idea_xxdmow.jpg"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
+
+
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/SUBASH__S?theme=dark&font=Roboto&ext=heatmap)
+
+
