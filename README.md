@@ -24,6 +24,6 @@
 
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/SUBASH__S?theme=dark&font=Roboto&ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/SUBASH__S?theme=dark&font=Roboto&ext=heatmap)
 
 
