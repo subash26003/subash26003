@@ -3,6 +3,8 @@
 ## 🚀 About me
 <img align="right" width="300" height="290" src="https://res.cloudinary.com/dosxybcit/image/upload/v1725903443/Github/pvpw0v1a4xrbok6v6elv.gif">
 
+<br/>
+
 - 🔭 Here's my [portfolio](https://subash26003.github.io/My-Portfolio/)                                    
 - 🎓 Final year ECE student
 - 💻 Passionate Web Developer
